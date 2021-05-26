@@ -1,6 +1,6 @@
-[Back to main page ]()
+[Back to SOL page](https://learn.solent.ac.uk/course/view.php?id=41794&section=3)
 
-# Computing at Solent University - Student Experience
+# Computing at Solent University - Student experience
 
 ![DDWD header image](digital-design-and-web-development.jpg)
 
